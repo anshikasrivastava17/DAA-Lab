@@ -1,3 +1,7 @@
+/*Starting from F(1) = 1, F(2)=2, find out the value of F(n)=F(n-1) + F(n-2) in O(n) time and O(1) space.
+Input: n
+Output: F(n) */
+
 import java.util.Scanner;
 public class fibo 
 {	
